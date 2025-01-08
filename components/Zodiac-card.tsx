@@ -17,7 +17,7 @@ interface HoroscopeData {
   horoscope: string
 }
 
-export function ZodiacCard({ name, dateRange, symbol, symbolName, currentDateRange, selectedTimeFrame }: ZodiacCardProps) {
+export function ZodiacCard({ name, symbol, symbolName, currentDateRange, selectedTimeFrame }: ZodiacCardProps) {
   const [isExpanded, setIsExpanded] = useState(false)
   const [horoscopeData, setHoroscopeData] = useState<HoroscopeData | null>(null)
   const [isLoading, setIsLoading] = useState(false)
@@ -50,7 +50,7 @@ export function ZodiacCard({ name, dateRange, symbol, symbolName, currentDateRan
         horoscope: data.horoscope
       })
     } catch (err) {
-      setError('Failed to load horoscope. Please try again.')
+      setError('Failed to load horoscope. Please try again.'+err)
     } finally {
       setIsLoading(false)
     }
