@@ -1,0 +1,60 @@
+{
+    "nav": {
+      "home": "होम",
+      "talkToAstrologer": "ज्योतिषी से बात करें",
+      "chatWithAstrologer": "ज्योतिषी से चैट करें",
+      "pujaConsultation": "पूजा परामर्श",
+      "articles": "लेख",
+      "videos": "वीडियो",
+      "consultNow": "अभी परामर्श लें"
+    },
+    "toast": {
+      "comingSoon": "जल्द आ रहा है!"
+    },
+    "hero": {
+      "title": "तारों को संरेखित करना, भविष्य का अनावरण करना - हमारी वेबसाइट जल्द ही लॉन्च हो रही है!",
+      "subtitle": "ब्रह्मांड के रहस्यों की खोज के लिए तैयार हो जाइए"
+    },
+    "countdown": {
+      "days": "दिन",
+      "hours": "घंटे",
+      "minutes": "मिनट",
+      "seconds": "सेकंड"
+    },
+    "services": {
+      "title": "हमारी सेवाएं",
+      "personalHoroscope": {
+        "title": "व्यक्तिगत राशिफल",
+        "description": "अपनी व्यक्तिगत राशि के बारे में विस्तृत जानकारी प्राप्त करें"
+      },
+      "relationshipCompatibility": {
+        "title": "रिश्ते की अनुकूलता",
+        "description": "जानें कि आप अपने साथी के साथ कितने अनुकूल हैं"
+      },
+      "careerGuidance": {
+        "title": "करियर मार्गदर्शन",
+        "description": "ज्योतिष के माध्यम से अपने करियर की संभावनाओं के बारे में जानें"
+      },
+      "lifePathReading": {
+        "title": "जीवन पथ पठन",
+        "description": "अपने जीवन के उद्देश्य और दिशा को समझें"
+      }
+    },
+    "testimonials": {
+      "title": "हमारे ग्राहक क्या कहते हैं"
+    },
+    "contact": {
+      "title": "संपर्क करें",
+      "officeAddress": "हमारा कार्यालय पता",
+      "generalEnquiries": "सामान्य पूछताछ",
+      "form": {
+        "name": "नाम",
+        "email": "ईमेल",
+        "subject": "विषय",
+        "message": "संदेश",
+        "send": "संदेश भेजें"
+      }
+    }
+  }
+  
+  

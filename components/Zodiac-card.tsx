@@ -65,7 +65,7 @@ export function ZodiacCard({ name, symbol, symbolName, currentDateRange, selecte
 
   return (
     <div 
-      className="bg-purple-50 p-6 rounded-lg text-center hover:shadow-lg transition-all cursor-pointer"
+      className="bg-orange-200  p-6 rounded-lg text-center hover:shadow-lg transition-all cursor-pointer"
       onClick={handleClick}
       role="button"
       aria-expanded={isExpanded}
@@ -73,7 +73,7 @@ export function ZodiacCard({ name, symbol, symbolName, currentDateRange, selecte
     >
       <h3 className="text-xl font-semibold text-gray-900 mb-1">{name}</h3>
       <p className="text-sm text-gray-600 mb-2">{currentDateRange}</p>
-      <div className="bg-purple-200 w-16 h-16 mx-auto rounded-full flex items-center justify-center mb-2">
+      <div className="bg-yellow-200 w-16 h-16 mx-auto rounded-full flex items-center justify-center mb-2">
         <span className="text-2xl">{symbol}</span>
       </div>
       <p className="text-sm text-gray-700 mb-2">{symbolName}</p>

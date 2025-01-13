@@ -1,0 +1,60 @@
+{
+    "nav": {
+      "home": "Home",
+      "talkToAstrologer": "Talk to Astrologer",
+      "chatWithAstrologer": "Chat with Astrologer",
+      "pujaConsultation": "Puja Consultation",
+      "articles": "Articles",
+      "videos": "Videos",
+      "consultNow": "Consult Now"
+    },
+    "toast": {
+      "comingSoon": "Coming Soon!"
+    },
+    "hero": {
+      "title": "Aligning the stars, unveiling the future – our website is launching soon!",
+      "subtitle": "Get ready to explore the mysteries of the cosmos"
+    },
+    "countdown": {
+      "days": "days",
+      "hours": "hours",
+      "minutes": "minutes",
+      "seconds": "seconds"
+    },
+    "services": {
+      "title": "Our Services",
+      "personalHoroscope": {
+        "title": "Personal Horoscope",
+        "description": "Get detailed insights about your personal zodiac sign"
+      },
+      "relationshipCompatibility": {
+        "title": "Relationship Compatibility",
+        "description": "Discover how compatible you are with your partner"
+      },
+      "careerGuidance": {
+        "title": "Career Guidance",
+        "description": "Learn about your career prospects through astrology"
+      },
+      "lifePathReading": {
+        "title": "Life Path Reading",
+        "description": "Understand your life's purpose and direction"
+      }
+    },
+    "testimonials": {
+      "title": "What Our Clients Say"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "officeAddress": "Our Office Address",
+      "generalEnquiries": "General Enquiries",
+      "form": {
+        "name": "Name",
+        "email": "Email",
+        "subject": "Subject",
+        "message": "Message",
+        "send": "Send Message"
+      }
+    }
+  }
+  
+  
